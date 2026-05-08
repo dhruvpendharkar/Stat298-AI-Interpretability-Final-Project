@@ -1,0 +1,12 @@
+{
+  "dataset": "gsm8k",
+  "config": "main",
+  "split": "train",
+  "sample_size": 500,
+  "num_choices": 4,
+  "seed": 42,
+  "num_records": 500,
+  "files": [
+    "data.jsonl"
+  ]
+}

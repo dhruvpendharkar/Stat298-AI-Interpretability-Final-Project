@@ -1,0 +1,12 @@
+{
+  "dataset": "renma/prontoqa",
+  "config": "default",
+  "split": "validation",
+  "sample_size": 500,
+  "num_choices": 2,
+  "seed": 42,
+  "num_records": 500,
+  "files": [
+    "data.jsonl"
+  ]
+}
